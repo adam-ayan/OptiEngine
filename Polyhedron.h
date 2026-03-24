@@ -18,4 +18,4 @@ private:
 
 // Geometric utility functions (not class members)
 bool areCoplanar(const Point& a, const Point& b, const Point& c, const Point& d);
-bool areCoplanar(const std::vector<Point>& points);
+bool areCoplanar(const std::vector<Point>& points); 

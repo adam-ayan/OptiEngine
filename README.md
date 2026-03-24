@@ -19,4 +19,4 @@ Future Work:
 - Add lighting and shading effects
 - Support texture mapping
 - Make the renderer faster for larger models
-- Allow real-time interaction with scenes
+- Allow real-time interaction with scenes 
