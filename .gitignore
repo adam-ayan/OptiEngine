@@ -41,4 +41,4 @@
 *.dwo
 
 
-*:*Zone.Identifier
+*:*Zone.Identifier# Git ignore rules
